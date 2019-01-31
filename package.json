@@ -1,0 +1,30 @@
+{
+  "name": "@chplabo/leapmotion_core",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://gitlab.com/chplabo/leapmotion_core",
+    "bugs": {
+    "url": "https://gitlab.com/chplabo/leapmotion_core/issues"
+  },
+  "scripts": {
+    "umm:init": "umm-init",
+    "umm:generate_assembly_definition": "umm-generate_assembly_definition",
+    "umm:module:install": "umm-module-install",
+    "umm:module:uninstall": "umm-module-uninstall",
+    "postinstall": "npm run --silent umm:module:install",
+    "postuninstall": "npm run --silent umm:module:uninstall"
+  },
+  "author": "Thanh Chu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:chplabo/leapmotion_core.git"
+  },
+  "files": [
+    "Assets"
+  ],
+  "dependencies": {
+    "@umm/scripts": "umm/scripts#^1.0.0"
+  },
+  "devDependencies": {}
+}

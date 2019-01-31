@@ -1,0 +1,10 @@
+{
+    "name": "chplabo@leapmotion_core-Editor",
+    "references": [
+        "chplabo@leapmotion_core"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
