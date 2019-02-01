@@ -1,3 +1,8 @@
-﻿{
-	"name": "chplabo@leapmotion_core"
+{
+    "name": "chplabo@leapmotion_core",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
 }

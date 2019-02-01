@@ -5,8 +5,12 @@
         "chplabo@leapmotion_core-Editor",
         "chplabo@leapmotion_core-Utils-Editor"
     ],
-    "optionalUnityReferences": [],
-    "includePlatforms": [],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false
 }
