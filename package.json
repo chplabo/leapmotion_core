@@ -1,7 +1,7 @@
 {
   "name": "@chplabo/leapmotion_core",
   "version": "1.0.0",
-  "description": "",
+  "description": "LeapMotion Unity SDK / Core",
   "homepage": "https://gitlab.com/chplabo/leapmotion_core",
     "bugs": {
     "url": "https://gitlab.com/chplabo/leapmotion_core/issues"
