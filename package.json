@@ -18,7 +18,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@gitlab.com:chplabo/leapmotion_core.git"
+    "url": "git@gitlab.com:chplabo/leapmotion_core"
   },
   "files": [
     "Assets"
